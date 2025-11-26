@@ -11,7 +11,11 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 ## Features
 
-´example_env.py´ added to show what contents the ´env.py´ file should have.
+* User uploads `participants.xlsx` (or similar) with list of Name, Email and Request from each participant.
+
+* The program assigns pairs, then sends a personalised PDF to each recipient. An xlsx is made with all pairs and requests, if it should need to be referenced by the user.
+
+* `example_env.py` added to show what contents the `env.py` file should have.
 
 ## Credits
 
